@@ -1,4 +1,4 @@
-TODO: Finish analysis section
+TODO: Wrap it all up, finish analysis
 
 
 
@@ -26,7 +26,7 @@ SQL Queries Found here: [project_sql folder](/project_sql/)
 
 - **Visual Studio Code**: Connected PostgreSQL to VSCODE, here I run my queries.
 - **SQL**: Query database and reveal critical insights.
-- **PostgreSQL**: Chosen database management system for this project. Connected to VSCode.
+- **PostgreSQL**: Chosen database management system for this project, connected to VSCode.
 - **Git and GitHub**: Crucial for version control of SQL scripts. 
 
 # Analysis
@@ -94,15 +94,15 @@ ORDER BY
 
 ![Top 10 Skills](Assets\Screenshot_2026-01-27_212337.png)
 
-Findings: 
 
-With each corresponding company and salary we can unearth insights about which skills are used. SQL, python and cloud platform are mentioned often. Following queries will build on this query.
+**Findings:** 
 
-The top 10 following skills:
+The top 10 skills among the highest payed data analyst jobs are SQL, followed by python Tableau and R. Suggesting database querying is important along with a programming language, data visualization program, cloud platforms and Excel. 
+
 
 //insert image here
 
-### 3. Top Demanded skills
+### 3. Demanded skills
 
 ```sql
 SELECT
@@ -121,9 +121,12 @@ ORDER BY
 LIMIT 5
 ```
 
-Insights:
+**Insights:**
 
-### 4. Top Demanded skills
+The most demanded skills (top 5) is SQL followd by Excel, python tableau and Power Bi. Suggesting that SQL is important, along with a spreadsheet program such as Excel and a BI tool such as Power BI. 
+
+
+### 4. Top skills based on salary
 
 ```sql
 SELECT
@@ -143,9 +146,11 @@ ORDER BY
 LIMIT 25
 ```
 
-Insights:
+**Insights:**
 
-### 5. Top Demanded skills
+
+
+### 5. Optimal skills to learn
 ```sql
 SELECT
     skills_dim.skill_id,
@@ -172,10 +177,28 @@ LIMIT 25;
 
 
 
+![Optimal skills to learn](Assets\5_demand_count.png)
+
+**Insights:**
 
 # Takeaways
 
+- **Aggregating Data** Improved my SQL skills utilizing joins, aggregation functions, merging tables, creating and managing CTEs and subqueries. 
+
+- **Provide Insights:** Data cleaning, merging tables and turning SQL queries to useful insights. 
+
 # Conclusion
+
 
 In conclusion, by answering these questions provide insights with SQL, spreadsheet , programming language like python and a visualization business intelligence software like PowerBI or Tableau. These In-demand skills that are highly rewarded on the Data Analyst job market. 
 Additional insights is learning a Cloud Platform, AWS, Azure or GCP. 
+
+In conclusion, by utilizing and learning these SQL techniques I've been able to reveal useful insights and answers based on real world data.
+
+(copy paste insights from the 5 queries)
+
+
+**Quick Note**
+This project improved my SQL query skills, merging tables to provide insights in a real world scenario. With subqueries, CTEs, left and inner joins to combine tables and extrapolate and improve my problem-solving skills.
+
+

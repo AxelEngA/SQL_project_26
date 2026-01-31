@@ -190,7 +190,7 @@ LIMIT 25;
 
 
 
-![Optimal skills to learn](Assets\5demandcount.png)
+![Optimal skills to learn](C:\Users\axels\Documents\SQL_project_26\Assets\5demandcount.png)
 
 **Insights:**
 

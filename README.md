@@ -100,8 +100,6 @@ ORDER BY
 The top 10 skills among the highest payed data analyst jobs are SQL, followed by python Tableau and R. Suggesting database querying is important along with a programming language, data visualization program, cloud platforms and Excel. 
 
 
-//insert image here
-
 ### 3. Demanded skills
 
 ```sql
@@ -145,6 +143,21 @@ ORDER BY
     avg_salary DESC
 LIMIT 25
 ```
+
+
+
+| Skill           | Avg Salary |
+|-----------------|-----------:|
+| pyspark         | 208,172 |
+| bitbucket       | 189,154 |
+| couchbase       | 160,515 |
+| watson          | 160,515 |
+| datarobot       | 155,485 |
+| gitlab          | 154,500 |
+| swift           | 153,750 |
+| jupyter         | 152,776 |
+| pandas          | 151,821 |
+| golang          | 145,000 |
 
 **Insights:**
 
@@ -190,10 +203,9 @@ LIMIT 25;
 
 
 
-![Optimal skills to learn](Assets/5demandcount.png)
-
 **Insights:**
 
+Based on both salary and demand, python along with Tableau and R tops the list. Useful to learn a programming language, BI tool, SQL and BI or visualization tool.
 
 # Takeaways
 

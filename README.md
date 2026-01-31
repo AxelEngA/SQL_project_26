@@ -89,7 +89,7 @@ ORDER BY
 
 ```
 
-![Top 10 Skills](Assets/Screenshot-2026-01-27-212337.png)
+![Top 10 Skills](Assets/2_demandtopskills.png)
 
 
 **Findings:** 
@@ -115,6 +115,14 @@ ORDER BY
     demand_count DESC
 LIMIT 5
 ```
+
+| skills      | demand_count |
+| ----------- | ----------- |
+| SQL     | 7291|
+| Excel   | 4611|
+| Python  | 4330|
+| Tableau | 3745|
+| Power BI| 2609|
 
 **Insights:**
 
@@ -185,18 +193,18 @@ ORDER BY
     demand_count DESC
 LIMIT 25;
 ```
-| Skill       | Demand Count |
-|------------|--------------|
-| python     | 236          |
-| tableau    | 230          |
-| r          | 148          |
-| sas        | 126          |
-| looker     | 49           |
-| snowflake  | 37           |
-| oracle     | 37           |
-| sql server | 35           |
-| azure      | 34           |
-| aws        | 32           |
+| Rank | Skill      | Demand Count | Avg Salary (USD) |
+| ---: | ---------- | ------------ | ---------------- |
+|    1 | Go         | 27           | 115,319.89       |
+|    2 | Confluence | 11           | 114,209.91       |
+|    3 | Hadoop     | 22           | 113,192.57       |
+|    4 | Snowflake  | 37           | 112,947.97       |
+|    5 | Azure      | 34           | 111,225.10       |
+|    6 | BigQuery   | 13           | 109,653.85       |
+|    7 | AWS        | 32           | 108,317.30       |
+|    8 | Java       | 17           | 106,906.44       |
+|    9 | SSIS       | 12           | 106,683.33       |
+|   10 | Jira       | 20           | 104,917.90       |
 
 
 

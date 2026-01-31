@@ -1,6 +1,3 @@
-TODO: Wrap it all up, finish analysis
-
-
 
 
 # Introduction
@@ -161,7 +158,7 @@ LIMIT 25
 
 **Insights:**
 
-Top skills based on salary provides us 
+Specific skills based on salary, python libraries topping the list.
 
 
 ### 5. Optimal skills to learn
@@ -230,11 +227,14 @@ In conclusion, by utilizing and learning these SQL techniques I've been able to 
 - **3.** The most demanded skills (top 5) is SQL followd by Excel, python tableau and Power Bi. Suggesting that SQL is important, along with a spreadsheet program such as Excel and a BI tool such as Power BI. 
 
 - **4.**
+Specific skills based on salary, python libraries topping the list which showcases the importance of increasing salary by learning a programming language like python.
+
 
 - **5.**
+Based on both salary and demand, python along with Tableau and R tops the list. Useful to learn a programming language, BI tool, SQL and BI or visualization tool.
 
 
-**Quick Note**
+# Closing Thoughts
 This project improved my SQL query skills, merging tables to provide insights in a real world scenario. With subqueries, CTEs, left and inner joins to combine tables and extrapolate and improve my problem-solving skills.
 
 

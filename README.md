@@ -92,7 +92,7 @@ ORDER BY
 
 ```
 
-![Top 10 Skills](Assets\Screenshot-2026-01-27-212337.png)
+![Top 10 Skills](Assets/Screenshot-2026-01-27-212337.png)
 
 
 **Findings:** 
@@ -190,7 +190,7 @@ LIMIT 25;
 
 
 
-![Optimal skills to learn](Assets\5demandcount.png)
+![Optimal skills to learn](Assets/5demandcount.png)
 
 **Insights:**
 

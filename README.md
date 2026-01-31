@@ -92,7 +92,7 @@ ORDER BY
 
 ```
 
-![Top 10 Skills](Assets\Screenshot_2026-01-27_212337.png)
+![Top 10 Skills](Assets\Screenshot-2026-01-27-212337.png)
 
 
 **Findings:** 

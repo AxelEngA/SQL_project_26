@@ -175,23 +175,22 @@ ORDER BY
     demand_count DESC
 LIMIT 25;
 ```
-+-----------+--------------+
-| Skill     | Demand Count |
-+-----------+--------------+
-| python    | 236          |
-| tableau   | 230          |
-| r         | 148          |
-| sas       | 126          |
-| looker    | 49           |
-| snowflake | 37           |
-| oracle    | 37           |
-| sql server| 35           |
-| azure     | 34           |
-| aws       | 32           |
-+-----------+--------------+
+| Skill       | Demand Count |
+|------------|--------------|
+| python     | 236          |
+| tableau    | 230          |
+| r          | 148          |
+| sas        | 126          |
+| looker     | 49           |
+| snowflake  | 37           |
+| oracle     | 37           |
+| sql server | 35           |
+| azure      | 34           |
+| aws        | 32           |
 
 
-![Optimal skills to learn](Assets\5_demand_count.png)
+
+![Optimal skills to learn](./Assets\5_demand_count.png)
 
 **Insights:**
 

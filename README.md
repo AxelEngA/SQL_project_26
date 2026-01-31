@@ -176,10 +176,10 @@ LIMIT 25;
 ```
 
 
-
 ![Optimal skills to learn](Assets\5_demand_count.png)
 
 **Insights:**
+
 
 # Takeaways
 
@@ -196,6 +196,16 @@ Additional insights is learning a Cloud Platform, AWS, Azure or GCP.
 In conclusion, by utilizing and learning these SQL techniques I've been able to reveal useful insights and answers based on real world data.
 
 (copy paste insights from the 5 queries)
+
+- **1.** Variety of data analyst job titles across different industries with a wide salary range.
+
+- **2.** The top 10 skills among the highest payed data analyst jobs are SQL, followed by python Tableau and R. Suggesting database querying is important along with a programming language, data visualization program, cloud platforms and Excel.
+
+- **3.** The most demanded skills (top 5) is SQL followd by Excel, python tableau and Power Bi. Suggesting that SQL is important, along with a spreadsheet program such as Excel and a BI tool such as Power BI. 
+
+- **4.**
+
+- **5.**
 
 
 **Quick Note**

@@ -235,6 +235,6 @@ Based on both salary and demand, python along with Tableau and R tops the list. 
 
 
 # Closing Thoughts
-This project improved my SQL query skills, merging tables to provide insights in a real world scenario. With subqueries, CTEs, left and inner joins to combine tables and extrapolate and improve my problem-solving skills.
+This project improved my SQL query skills, merging tables to provide insights in a real world scenario. With subqueries, CTEs, left and inner joins to combine tables and extrapolate insights. This project has improved my problem-solving and analytical skills.
 
 

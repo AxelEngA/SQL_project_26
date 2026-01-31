@@ -124,6 +124,8 @@ LIMIT 5
 | Tableau | 3745|
 | Power BI| 2609|
 
+*3. Table showing top 5 skills*
+
 **Insights:**
 
 The most demanded skills (top 5) is SQL followd by Excel, python tableau and Power Bi. Suggesting that SQL is important, along with a spreadsheet program such as Excel and a BI tool such as Power BI. 
@@ -153,16 +155,16 @@ LIMIT 25
 
 | Skill           | Avg Salary |
 |-----------------|-----------:|
-| pyspark         | 208,172 |
-| bitbucket       | 189,154 |
-| couchbase       | 160,515 |
-| watson          | 160,515 |
-| datarobot       | 155,485 |
-| gitlab          | 154,500 |
-| swift           | 153,750 |
-| jupyter         | 152,776 |
-| pandas          | 151,821 |
-| golang          | 145,000 |
+| PySpark         | 208,172 |
+| Bitbucket       | 189,154 |
+| Couchbase       | 160,515 |
+| Watson          | 160,515 |
+| DataRobot       | 155,485 |
+| GitLab          | 154,500 |
+| Swift           | 153,750 |
+| Jupyter         | 152,776 |
+| Pandas          | 151,821 |
+| Golang          | 145,000 |
 
 **Insights:**
 
@@ -195,16 +197,16 @@ LIMIT 25;
 ```
 | Rank | Skill      | Demand Count | Avg Salary (USD) |
 | ---: | ---------- | ------------ | ---------------- |
-|    1 | Go         | 27           | 115,319.89       |
-|    2 | Confluence | 11           | 114,209.91       |
-|    3 | Hadoop     | 22           | 113,192.57       |
-|    4 | Snowflake  | 37           | 112,947.97       |
-|    5 | Azure      | 34           | 111,225.10       |
-|    6 | BigQuery   | 13           | 109,653.85       |
-|    7 | AWS        | 32           | 108,317.30       |
-|    8 | Java       | 17           | 106,906.44       |
-|    9 | SSIS       | 12           | 106,683.33       |
-|   10 | Jira       | 20           | 104,917.90       |
+|    1 | Go         | 27           | 115,319       |
+|    2 | Confluence | 11           | 114,209       |
+|    3 | Hadoop     | 22           | 113,192       |
+|    4 | Snowflake  | 37           | 112,947       |
+|    5 | Azure      | 34           | 111,225       |
+|    6 | BigQuery   | 13           | 109,653       |
+|    7 | AWS        | 32           | 108,317       |
+|    8 | Java       | 17           | 106,906       |
+|    9 | SSIS       | 12           | 106,683       |
+|   10 | Jira       | 20           | 104,917       |
 
 
 

@@ -218,7 +218,6 @@ Additional insights is learning a Cloud Platform, AWS, Azure or GCP.
 
 In conclusion, by utilizing and learning these SQL techniques I've been able to reveal useful insights and answers based on real world data.
 
-(copy paste insights from the 5 queries)
 
 - **1.** Variety of data analyst job titles across different industries with a wide salary range.
 

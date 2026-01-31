@@ -190,7 +190,7 @@ LIMIT 25;
 
 
 
-![Optimal skills to learn](./Assets\5_demand_count.png)
+![Optimal skills to learn](Assets\5demandcount.png)
 
 **Insights:**
 

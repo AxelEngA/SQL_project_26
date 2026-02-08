@@ -211,13 +211,13 @@ LIMIT 25;
 |    9 | SSIS       | 12           | 106,683       |
 |   10 | Jira       | 20           | 104,917       |
 
-
+*5. Table showing most optimal skills by average salary*
 
 **Insights:**
 
-Based on both salary and demand, python along with Tableau and R tops the list. Useful to learn a programming language, BI tool, SQL and BI or visualization tool.
+Based on both salary and demand, python along with Tableau and R tops the list. Useful to learn a programming language, SQL or visualization tool. Additionally learning a Cloud Platform such as AWS, Azure or GCP beneficial. SQL being one of the top demanded skills to learn.
 
-# Takeaways
+# What I learned
 
 - **Aggregating Data** Improved my SQL skills utilizing joins, aggregation functions, merging tables, creating and managing CTEs and subqueries. 
 
@@ -242,7 +242,7 @@ Specific skills based on salary, python libraries topping the list which showcas
 
 
 - **5.**
-Based on both salary and demand, python along with Tableau and R tops the list. Useful to learn a programming language, BI tool, SQL and BI or visualization tool. Additionally learning a Cloud Platform such as AWS, Azure or GCP.
+Based on both salary and demand, python along with Tableau and R tops the list. Useful to learn a programming language, SQL or visualization tool. Additionally learning a Cloud Platform such as AWS, Azure or GCP beneficial. SQL being one of the top demanded skills to learn.
 
 
 # Closing Thoughts

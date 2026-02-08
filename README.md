@@ -30,7 +30,7 @@ SQL Queries Found here: [project_sql folder](/project_sql/)
 
 Queries used for each question:
 
-### 1. Top Paying Data Analyst Jobs.
+### 1. Top Paying Data Analyst Jobs
 
 Identify the top paying remote Data Analyst jobs. 
 ```sql
@@ -58,7 +58,7 @@ High range of salary, ranging from 184K USD to 650k. This emphazies the signifia
 - **Variety of Job Titles:**
 High variety of data analyst roles, from Marketing Data Analyst to Director of Data Analyst.
 
-### 2. Skills required for Top Paying Data Analyst Jobs.
+### 2. Skills required for Top Paying Data Analyst Jobs
 
 ```sql
 With top_paying_jobs AS (

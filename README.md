@@ -225,10 +225,6 @@ Based on both salary and demand, python along with Tableau and R tops the list. 
 
 # Conclusion
 
-
-In conclusion, by answering these questions provide insights with SQL, spreadsheet , programming language like python and a visualization business intelligence software like PowerBI or Tableau. These In-demand skills that are highly rewarded on the Data Analyst job market. 
-Additional insights is  
-
 In conclusion, by utilizing and learning these SQL techniques I've been able to reveal useful insights and answers based on real world data.
 
 - **1.** The top paying data analysts jobs shows a diverse range of job titles. With a wide salary range in different industries.
